@@ -129,8 +129,7 @@ const LandingPage = () => {
             <a href="#stats">Impact</a>
           </nav>
           <div className="header-actions">
-            <button className="btn-ghost">Login</button>
-            <button className="btn-primary">Get Started</button>
+            <button className="btn-ghost">Login/Signup</button>
           </div>
         </div>
       </header>
